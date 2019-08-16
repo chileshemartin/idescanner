@@ -1,7 +1,8 @@
 # IDE Scanner
 
 IDE Scanner is an android based barcode scanner that facilitates exam attendance for distance students.
-When student go write their exams, the only present their Student ID's whose barcode is scanned and attendance state is updates.
+When students go to write their exams, they are only required to present their Student ID's whose barcode is scanned 
+and the attendance state is updated.
 
 ## Dependencies
 
@@ -11,5 +12,5 @@ When student go write their exams, the only present their Student ID's whose bar
     
 ## Installation
 
-You first need to compile the apk using android studio. For more detailed instructions for app
+You will need to first compile the apk using android studio. For more detailed instructions on
 deployment, go to the official android development website or follow this [link](https://developer.android.com/studio/publish).
